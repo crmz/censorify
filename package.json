@@ -1,0 +1,11 @@
+{
+	"author": "Celi Mendoza",
+	"name": "censorify",
+	"version": "0.1.1",
+	"description": "Palabras censuradas de text",
+	"main": "censoredtext",
+	"dependencies":{},
+	"engines": {
+	 "node": "*"
+	}
+}
